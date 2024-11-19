@@ -1,0 +1,12 @@
+{
+  "name": "Vorticium",
+  "symbol": "VORT",
+  "description": "Value based token for and from community.",
+  "image": "https://raw.githubusercontent.com/alexiokay/Vorticium/refs/heads/main/verticium.png",
+  "extensions": {
+    "website": "vorticium.com",
+    "x": "",
+    "telegram": "https://t.me/+UuXDqeKH9lA4OGM0",
+    "discord": "https://discord.gg/XzkYVr7N"
+  }
+}
